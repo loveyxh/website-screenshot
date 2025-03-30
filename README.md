@@ -25,8 +25,8 @@
 1. 克隆仓库到本地
 
 ```bash
-git clone https://github.com/loveyxh/website-screenshot-tools.git
-cd website-screenshot-tools
+git clone https://github.com/loveyxh/website-screenshot.git
+cd website-screenshot
 ```
 
 2. 安装依赖包
