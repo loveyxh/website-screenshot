@@ -1,0 +1,351 @@
+2025-03-30 15:13:01,548 - INFO - ====== WebDriver manager ======
+2025-03-30 15:13:01,549 - INFO - ====== WebDriver manager ======
+2025-03-30 15:13:01,549 - INFO - ====== WebDriver manager ======
+2025-03-30 15:13:01,550 - INFO - ====== WebDriver manager ======
+2025-03-30 15:13:03,458 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:13:03,531 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:13:03,531 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:13:03,649 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:13:24,880 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:13:24,884 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:13:25,086 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:13:25,718 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:13:46,123 - INFO - There is no [win64] chromedriver "131.0.6778.264" for browser google-chrome "131.0.6778" in cache
+2025-03-30 15:13:46,123 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:13:46,208 - INFO - There is no [win64] chromedriver "131.0.6778.264" for browser google-chrome "131.0.6778" in cache
+2025-03-30 15:13:46,209 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:13:47,283 - INFO - There is no [win64] chromedriver "131.0.6778.264" for browser google-chrome "131.0.6778" in cache
+2025-03-30 15:13:47,298 - INFO - There is no [win64] chromedriver "131.0.6778.264" for browser google-chrome "131.0.6778" in cache
+2025-03-30 15:13:47,310 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:13:47,313 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:14:28,916 - INFO - WebDriver version 131.0.6778.264 selected
+2025-03-30 15:14:28,920 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-03-30 15:14:28,921 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-03-30 15:14:28,950 - INFO - WebDriver version 131.0.6778.264 selected
+2025-03-30 15:14:28,954 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-03-30 15:14:28,954 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-03-30 15:14:29,570 - INFO - Driver downloading response is 200
+2025-03-30 15:14:29,608 - INFO - Driver downloading response is 200
+2025-03-30 15:14:30,881 - INFO - WebDriver version 131.0.6778.264 selected
+2025-03-30 15:14:30,885 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-03-30 15:14:30,885 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-03-30 15:14:31,119 - INFO - WebDriver version 131.0.6778.264 selected
+2025-03-30 15:14:31,123 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-03-30 15:14:31,124 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.264/win32/chromedriver-win32.zip
+2025-03-30 15:14:31,644 - INFO - Driver downloading response is 200
+2025-03-30 15:14:31,874 - INFO - Driver downloading response is 200
+2025-03-30 15:14:32,669 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:14:33,444 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:14:35,396 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:14:36,208 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:14:54,491 - INFO - Driver has been saved in cache [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264]
+2025-03-30 15:14:56,233 - INFO - Driver has been saved in cache [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264]
+2025-03-30 15:14:57,342 - INFO - Driver has been saved in cache [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264]
+2025-03-30 15:14:58,241 - INFO - 开始处理序号 1 的网站: 搜狐网
+2025-03-30 15:14:58,737 - INFO - 开始处理序号 4 的网站: 网易
+2025-03-30 15:15:00,986 - WARNING - 第1次截图失败 https://www.sohu.net: Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x0095FD53+23747]
+	(No symbol) [0x008E7D54]
+	(No symbol) [0x007BBE53]
+	(No symbol) [0x007B9CAE]
+	(No symbol) [0x007AD918]
+	(No symbol) [0x007AF210]
+	(No symbol) [0x007ADB67]
+	(No symbol) [0x007AD503]
+	(No symbol) [0x007AD43D]
+	(No symbol) [0x007AB8BB]
+	(No symbol) [0x007ABE0B]
+	(No symbol) [0x007BE84E]
+	(No symbol) [0x0083BE47]
+	(No symbol) [0x00821DFC]
+	(No symbol) [0x0083B41E]
+	(No symbol) [0x00821B96]
+	(No symbol) [0x007F3F3C]
+	(No symbol) [0x007F4EBD]
+	GetHandleVerifier [0x00C3AC73+3017699]
+	GetHandleVerifier [0x00C4B93B+3086507]
+	GetHandleVerifier [0x00C440F2+3055714]
+	GetHandleVerifier [0x009F5AF0+637536]
+	(No symbol) [0x008F0A5D]
+	(No symbol) [0x008EDA28]
+	(No symbol) [0x008EDBC5]
+	(No symbol) [0x008E07F0]
+	BaseThreadInitThunk [0x7639FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77D67BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77D67B8E+238]
+, 准备重试...
+2025-03-30 15:15:01,060 - INFO - 开始处理序号 3 的网站: 腾讯网
+2025-03-30 15:15:02,490 - INFO - 网站发生跳转: https://www.163.com -> https://www.163.com/
+2025-03-30 15:15:03,097 - INFO - 成功截图: https://www.163.com/
+2025-03-30 15:15:06,787 - WARNING - 第2次截图失败 http://www.sohu.net: Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x0095FD53+23747]
+	(No symbol) [0x008E7D54]
+	(No symbol) [0x007BBE53]
+	(No symbol) [0x007B9CAE]
+	(No symbol) [0x007AD918]
+	(No symbol) [0x007AF210]
+	(No symbol) [0x007ADB67]
+	(No symbol) [0x007AD503]
+	(No symbol) [0x007AD43D]
+	(No symbol) [0x007AB8BB]
+	(No symbol) [0x007ABE0B]
+	(No symbol) [0x007BE84E]
+	(No symbol) [0x0083BE47]
+	(No symbol) [0x00821DFC]
+	(No symbol) [0x0083B41E]
+	(No symbol) [0x00821B96]
+	(No symbol) [0x007F3F3C]
+	(No symbol) [0x007F4EBD]
+	GetHandleVerifier [0x00C3AC73+3017699]
+	GetHandleVerifier [0x00C4B93B+3086507]
+	GetHandleVerifier [0x00C440F2+3055714]
+	GetHandleVerifier [0x009F5AF0+637536]
+	(No symbol) [0x008F0A5D]
+	(No symbol) [0x008EDA28]
+	(No symbol) [0x008EDBC5]
+	(No symbol) [0x008E07F0]
+	BaseThreadInitThunk [0x7639FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77D67BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77D67B8E+238]
+, 准备重试...
+2025-03-30 15:15:08,669 - INFO - 网站发生跳转: https://www.qq.com -> https://www.qq.com/
+2025-03-30 15:15:09,425 - INFO - 成功截图: https://www.qq.com/
+2025-03-30 15:15:09,737 - ERROR - 截图失败 http://www.sohu.net: Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x0095FD53+23747]
+	(No symbol) [0x008E7D54]
+	(No symbol) [0x007BBE53]
+	(No symbol) [0x007B9CAE]
+	(No symbol) [0x007AD918]
+	(No symbol) [0x007AF210]
+	(No symbol) [0x007ADB67]
+	(No symbol) [0x007AD503]
+	(No symbol) [0x007AD43D]
+	(No symbol) [0x007AB8BB]
+	(No symbol) [0x007ABE0B]
+	(No symbol) [0x007BE84E]
+	(No symbol) [0x0083BE47]
+	(No symbol) [0x00821DFC]
+	(No symbol) [0x0083B41E]
+	(No symbol) [0x00821B96]
+	(No symbol) [0x007F3F3C]
+	(No symbol) [0x007F4EBD]
+	GetHandleVerifier [0x00C3AC73+3017699]
+	GetHandleVerifier [0x00C4B93B+3086507]
+	GetHandleVerifier [0x00C440F2+3055714]
+	GetHandleVerifier [0x009F5AF0+637536]
+	(No symbol) [0x008F0A5D]
+	(No symbol) [0x008EDA28]
+	(No symbol) [0x008EDBC5]
+	(No symbol) [0x008E07F0]
+	BaseThreadInitThunk [0x7639FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77D67BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77D67B8E+238]
+, 已达到最大重试次数，生成404图片
+2025-03-30 15:15:09,829 - INFO - 已生成404图片: screenshots\搜狐网.png
+2025-03-30 15:15:09,830 - ERROR - 程序执行失败: [WinError 32] 另一个程序正在使用此文件，进程无法访问。: 'C:\\Users\\Administrator\\.wdm\\drivers\\chromedriver\\win64\\131.0.6778.264\\chromedriver-win32\\chromedriver.exe' -> 'C:\\Users\\Administrator\\.wdm\\drivers\\chromedriver\\win64\\131.0.6778.264\\chromedriver.exe'
+2025-03-30 15:16:39,038 - INFO - ====== WebDriver manager ======
+2025-03-30 15:16:39,039 - INFO - ====== WebDriver manager ======
+2025-03-30 15:16:39,040 - INFO - ====== WebDriver manager ======
+2025-03-30 15:16:39,041 - INFO - ====== WebDriver manager ======
+2025-03-30 15:16:41,298 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:16:41,306 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:16:41,306 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:16:41,355 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:17:02,581 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:17:02,706 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:17:02,875 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:17:03,106 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:17:23,796 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-30 15:17:24,388 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-30 15:17:24,528 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-30 15:17:24,639 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-30 15:17:25,851 - INFO - 开始处理序号 2 的网站: 新浪网
+2025-03-30 15:17:27,628 - INFO - 开始处理序号 4 的网站: 网易
+2025-03-30 15:17:28,587 - INFO - 开始处理序号 1 的网站: 搜狐网
+2025-03-30 15:17:28,591 - INFO - 开始处理序号 3 的网站: 腾讯网
+2025-03-30 15:17:35,133 - WARNING - 第1次截图失败 https://www.sohu.net: Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x0124FD53+23747]
+	(No symbol) [0x011D7D54]
+	(No symbol) [0x010ABE53]
+	(No symbol) [0x010A9CAE]
+	(No symbol) [0x0109D918]
+	(No symbol) [0x0109F210]
+	(No symbol) [0x0109DB67]
+	(No symbol) [0x0109D503]
+	(No symbol) [0x0109D43D]
+	(No symbol) [0x0109B8BB]
+	(No symbol) [0x0109BE0B]
+	(No symbol) [0x010AE84E]
+	(No symbol) [0x0112BE47]
+	(No symbol) [0x01111DFC]
+	(No symbol) [0x0112B41E]
+	(No symbol) [0x01111B96]
+	(No symbol) [0x010E3F3C]
+	(No symbol) [0x010E4EBD]
+	GetHandleVerifier [0x0152AC73+3017699]
+	GetHandleVerifier [0x0153B93B+3086507]
+	GetHandleVerifier [0x015340F2+3055714]
+	GetHandleVerifier [0x012E5AF0+637536]
+	(No symbol) [0x011E0A5D]
+	(No symbol) [0x011DDA28]
+	(No symbol) [0x011DDBC5]
+	(No symbol) [0x011D07F0]
+	BaseThreadInitThunk [0x7639FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77D67BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77D67B8E+238]
+, 准备重试...
+2025-03-30 15:17:36,450 - INFO - 网站发生跳转: https://www.163.com -> https://www.163.com/
+2025-03-30 15:17:37,401 - INFO - 网站发生跳转: https://www.qq.com -> https://www.qq.com/
+2025-03-30 15:17:37,866 - WARNING - 第2次截图失败 http://www.sohu.net: Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x0124FD53+23747]
+	(No symbol) [0x011D7D54]
+	(No symbol) [0x010ABE53]
+	(No symbol) [0x010A9CAE]
+	(No symbol) [0x0109D918]
+	(No symbol) [0x0109F210]
+	(No symbol) [0x0109DB67]
+	(No symbol) [0x0109D503]
+	(No symbol) [0x0109D43D]
+	(No symbol) [0x0109B8BB]
+	(No symbol) [0x0109BE0B]
+	(No symbol) [0x010AE84E]
+	(No symbol) [0x0112BE47]
+	(No symbol) [0x01111DFC]
+	(No symbol) [0x0112B41E]
+	(No symbol) [0x01111B96]
+	(No symbol) [0x010E3F3C]
+	(No symbol) [0x010E4EBD]
+	GetHandleVerifier [0x0152AC73+3017699]
+	GetHandleVerifier [0x0153B93B+3086507]
+	GetHandleVerifier [0x015340F2+3055714]
+	GetHandleVerifier [0x012E5AF0+637536]
+	(No symbol) [0x011E0A5D]
+	(No symbol) [0x011DDA28]
+	(No symbol) [0x011DDBC5]
+	(No symbol) [0x011D07F0]
+	BaseThreadInitThunk [0x7639FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77D67BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77D67B8E+238]
+, 准备重试...
+2025-03-30 15:17:39,403 - INFO - 成功截图: https://www.qq.com/
+2025-03-30 15:17:39,517 - INFO - 已更新文档: 网站截图报告(0-100).docx
+2025-03-30 15:17:40,750 - ERROR - 截图失败 http://www.sohu.net: Message: unknown error: net::ERR_CONNECTION_REFUSED
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x0124FD53+23747]
+	(No symbol) [0x011D7D54]
+	(No symbol) [0x010ABE53]
+	(No symbol) [0x010A9CAE]
+	(No symbol) [0x0109D918]
+	(No symbol) [0x0109F210]
+	(No symbol) [0x0109DB67]
+	(No symbol) [0x0109D503]
+	(No symbol) [0x0109D43D]
+	(No symbol) [0x0109B8BB]
+	(No symbol) [0x0109BE0B]
+	(No symbol) [0x010AE84E]
+	(No symbol) [0x0112BE47]
+	(No symbol) [0x01111DFC]
+	(No symbol) [0x0112B41E]
+	(No symbol) [0x01111B96]
+	(No symbol) [0x010E3F3C]
+	(No symbol) [0x010E4EBD]
+	GetHandleVerifier [0x0152AC73+3017699]
+	GetHandleVerifier [0x0153B93B+3086507]
+	GetHandleVerifier [0x015340F2+3055714]
+	GetHandleVerifier [0x012E5AF0+637536]
+	(No symbol) [0x011E0A5D]
+	(No symbol) [0x011DDA28]
+	(No symbol) [0x011DDBC5]
+	(No symbol) [0x011D07F0]
+	BaseThreadInitThunk [0x7639FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77D67BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77D67B8E+238]
+, 已达到最大重试次数，生成404图片
+2025-03-30 15:17:41,042 - INFO - 已生成404图片: screenshots\搜狐网.png
+2025-03-30 15:17:41,207 - INFO - 已更新文档: 网站截图报告(0-100).docx
+2025-03-30 15:17:41,828 - INFO - 网站发生跳转: https://www.sina.com.cn -> https://www.sina.com.cn/
+2025-03-30 15:17:42,680 - INFO - 成功截图: https://www.sina.com.cn/
+2025-03-30 15:17:42,765 - INFO - 已更新文档: 网站截图报告(0-100).docx
+2025-03-30 15:17:44,784 - INFO - 成功截图: https://www.163.com/
+2025-03-30 15:17:44,864 - INFO - 已更新文档: 网站截图报告(0-100).docx
+2025-03-30 15:17:44,865 - INFO - 处理完成，统计信息: 总计: 4, 成功: 4, 失败: 0
+2025-03-30 15:17:44,866 - INFO - 处理完成
+2025-03-30 15:18:15,637 - INFO - ====== WebDriver manager ======
+2025-03-30 15:18:15,638 - INFO - ====== WebDriver manager ======
+2025-03-30 15:18:15,638 - INFO - ====== WebDriver manager ======
+2025-03-30 15:18:15,639 - INFO - ====== WebDriver manager ======
+2025-03-30 15:18:17,473 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:18:17,479 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:18:17,542 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:18:17,612 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:18:38,936 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:18:39,068 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:18:39,121 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:18:39,253 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:19:00,298 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-30 15:19:00,303 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-30 15:19:00,414 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-30 15:19:01,074 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-30 15:19:03,807 - INFO - 开始处理序号 3 的网站: 腾讯网
+2025-03-30 15:19:03,855 - INFO - 开始处理序号 1 的网站: 搜狐网
+2025-03-30 15:19:03,928 - INFO - 开始处理序号 2 的网站: 新浪网
+2025-03-30 15:19:07,405 - INFO - 开始处理序号 4 的网站: 网易
+2025-03-30 15:19:21,035 - INFO - 网站发生跳转: https://www.qq.com -> https://www.qq.com/
+2025-03-30 15:19:21,638 - INFO - 网站发生跳转: https://www.sohu.com -> https://www.sohu.com/
+2025-03-30 15:19:22,631 - INFO - 网站发生跳转: https://www.sina.com.cn -> https://www.sina.com.cn/
+2025-03-30 15:19:22,739 - INFO - 成功截图: https://www.qq.com/
+2025-03-30 15:19:22,834 - INFO - 成功截图: https://www.sohu.com/
+2025-03-30 15:19:23,057 - INFO - 已更新文档: 网站截图报告(0-100).docx
+2025-03-30 15:19:23,148 - INFO - 已更新文档: 网站截图报告(0-100).docx
+2025-03-30 15:19:23,500 - INFO - 成功截图: https://www.sina.com.cn/
+2025-03-30 15:19:23,686 - INFO - 已更新文档: 网站截图报告(0-100).docx
+2025-03-30 15:19:24,483 - INFO - 网站发生跳转: https://www.163.com -> https://www.163.com/
+2025-03-30 15:19:27,988 - INFO - 成功截图: https://www.163.com/
+2025-03-30 15:19:28,180 - INFO - 已更新文档: 网站截图报告(0-100).docx
+2025-03-30 15:19:28,181 - INFO - 处理完成，统计信息: 总计: 4, 成功: 4, 失败: 0
+2025-03-30 15:19:28,182 - INFO - 处理完成
+2025-03-30 15:20:45,062 - INFO - ====== WebDriver manager ======
+2025-03-30 15:20:45,063 - INFO - ====== WebDriver manager ======
+2025-03-30 15:20:45,063 - INFO - ====== WebDriver manager ======
+2025-03-30 15:20:45,064 - INFO - ====== WebDriver manager ======
+2025-03-30 15:20:46,887 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:20:46,920 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:20:46,948 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:20:46,955 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:21:08,151 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:21:08,254 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:21:08,778 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:21:08,882 - INFO - Get LATEST chromedriver version for google-chrome
+2025-03-30 15:21:29,406 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-30 15:21:29,584 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-30 15:21:30,512 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-30 15:21:30,544 - INFO - Driver [C:\Users\Administrator\.wdm\drivers\chromedriver\win64\131.0.6778.264\chromedriver-win32/chromedriver.exe] found in cache
+2025-03-30 15:21:32,440 - INFO - 开始处理序号 4 的网站: 网易
+2025-03-30 15:21:32,607 - INFO - 开始处理序号 2 的网站: 新浪网
+2025-03-30 15:21:37,193 - INFO - 开始处理序号 1 的网站: 搜狐网
+2025-03-30 15:21:37,239 - INFO - 开始处理序号 3 的网站: 腾讯网
+2025-03-30 15:21:47,831 - INFO - 网站发生跳转: https://www.sina.com.cn -> https://www.sina.com.cn/
+2025-03-30 15:21:49,807 - INFO - 网站发生跳转: https://www.163.com -> https://www.163.com/
+2025-03-30 15:21:49,814 - INFO - 成功截图: https://www.sina.com.cn/
+2025-03-30 15:21:50,126 - INFO - 已更新文档: 网站截图报告(0-100).docx
+2025-03-30 15:21:52,700 - INFO - 网站发生跳转: https://www.qq.com -> https://www.qq.com/
+2025-03-30 15:21:54,027 - INFO - 网站发生跳转: https://www.sohu.com -> https://www.sohu.com/
+2025-03-30 15:21:56,051 - INFO - 成功截图: https://www.qq.com/
+2025-03-30 15:21:56,312 - INFO - 已更新文档: 网站截图报告(0-100).docx
+2025-03-30 15:21:56,715 - INFO - 成功截图: https://www.sohu.com/
+2025-03-30 15:21:56,863 - INFO - 已更新文档: 网站截图报告(0-100).docx
+2025-03-30 15:21:59,072 - INFO - 成功截图: https://www.163.com/
+2025-03-30 15:21:59,261 - INFO - 已更新文档: 网站截图报告(0-100).docx
+2025-03-30 15:21:59,262 - INFO - 处理完成，统计信息: 总计: 4, 成功: 4, 失败: 0
+2025-03-30 15:21:59,263 - INFO - 处理完成
